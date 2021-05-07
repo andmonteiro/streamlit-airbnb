@@ -7,7 +7,7 @@ import plotly.express as px
 from streamlit_folium import folium_static
 from folium.plugins import MarkerCluster
 
-#st.set_page_config(layout='wide')
+st.set_page_config(layout='wide')
 DATA_URL = "https://raw.githubusercontent.com/anssodre/datasets/master/airbnb_rj.csv"
 GEOJSON_URL = 'https://raw.githubusercontent.com/anssodre/datasets/master/Limite_de_Bairros.geojson'
 
