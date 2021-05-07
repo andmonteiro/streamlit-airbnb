@@ -29,14 +29,11 @@ decorator==4.4.2
 defusedxml==0.6.0
 entrypoints==0.3
 enum-compat==0.0.3
-Fiona @ file:///C:/Users/mr_ua/PycharmProjects/Fiona-1.8.18-cp39-cp39-win_amd64.whl
 Flask==1.1.2
 Flask-Compress==1.8.0
 folium==0.11.0
 future==0.18.2
-GDAL @ file:///C:/Users/mr_ua/PycharmProjects/GDAL-3.2.1-cp39-cp39-win_amd64.whl
 geographiclib==1.50
-geopandas @ file:///C:/Users/mr_ua/PycharmProjects/geopandas-0.8.2-py3-none-any.whl
 geopy==2.1.0
 gitdb==4.0.5
 GitPython==3.1.12
