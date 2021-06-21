@@ -12,6 +12,7 @@ Foi utilizado o dataset devidamente tratado: https://github.com/andmonteiro/data
 Para o arquivo GEOJSON com os limites dos bairros: https://github.com/andmonteiro/datasets/blob/master/Limite_de_Bairros.geojson
 
 Para iniciar o Streamlit:
+
 ```streamlit run app.py```
 
 Resultado final utilizando o Heroku: https://analytics-airbnb-rio.herokuapp.com/
